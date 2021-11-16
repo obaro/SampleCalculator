@@ -1,11 +1,11 @@
 public class Lab {
-    private int number;
+    private int number_conflict;
  
     public int getNumber() {
-        return this.number;
+        return this.number_conflict;
     }
  
     public void setNumber(int num) {
-        this.number = num;
+        this.number_conflict = num;
     }
 }
